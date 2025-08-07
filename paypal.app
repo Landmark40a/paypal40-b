@@ -10,3 +10,4 @@ echo "Deployment successful"
 echo "congratulation, `whoami`, you are deployed"
 echo "you shall
 Paul is a devops engineer working with landmark
+peter
